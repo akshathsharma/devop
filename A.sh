@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo " devops"
+echo "Devops"
